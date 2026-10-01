@@ -60,6 +60,7 @@ The Summary Sheet contains a profile-card section showing fields such as rank, c
 
 ## 📈 Dashboard Snapshot
 
+![Dashboard Snapshot](Screenshot%202026-10-01%20153619.png)
 
 ## 🛠️ Excel Skills Demonstrated
 
