@@ -60,17 +60,6 @@ The Summary Sheet contains a profile-card section showing fields such as rank, c
 
 ## 📈 Dashboard Snapshot
 
-### Industry & Wealth Analysis
-
-<img src="dashboard-152.png" alt="Billionaire dashboard — industry and wealth analysis" width="900">
-
-### Demographic Analysis
-
-<img src="dashboard-153.png" alt="Billionaire dashboard — demographic analysis" width="900">
-
-### Geographic Analysis
-
-<img src="dashboard-154.png" alt="Billionaire dashboard — geographic analysis" width="900">
 
 ## 🛠️ Excel Skills Demonstrated
 
